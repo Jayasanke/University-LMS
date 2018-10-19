@@ -19,8 +19,4 @@
 ###### •   	Use GitHub as project collaboration platform
 ###### •    Each team member should have commitments to the project
 
-
-~~~ sh
-$ git clone https://github.com/Jayasanke/University-LMS
-$ https://www.facebook.com/jayasankaonline
-~~~
+ 
